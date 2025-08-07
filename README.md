@@ -2,7 +2,7 @@
 
 A simple yet effective **logistic regression** model to predict customer churn for a telecom company, based on the [Telco Customer Churn dataset] from Kaggle.
 ```
-(https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ```
 
 ---
