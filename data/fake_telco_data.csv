@@ -1,0 +1,4 @@
+customer_id,tenure,monthly_charges,churn
+001,12,70.5,No
+002,2,95.3,Yes
+003,24,55.2,No
