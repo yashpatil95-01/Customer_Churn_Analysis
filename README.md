@@ -44,13 +44,13 @@ The plot is saved automatically as results/tenure_vs_churn.png.
 🛠️ Technologies & Libraries
 Python 3.x
 
-pandas
+- pandas
 
-matplotlib
+- matplotlib
 
-seaborn
+- seaborn
 
-scikit-learn
+- scikit-learn
 
 🔗 Dataset
 Telco Customer Churn
