@@ -34,12 +34,16 @@ Run the main script:
 python churn_analysis.py
 ```
 
+---
+
 📊 Results
 Classification report printed in console shows precision, recall, and F1-score.
 
 Boxplot visualizes customer tenure vs. churn status.
 
 The plot is saved automatically as results/tenure_vs_churn.png.
+
+---
 
 🛠️ Technologies & Libraries
 Python 3.x
@@ -52,12 +56,18 @@ Python 3.x
 
 - scikit-learn
 
+---
+
 🔗 Dataset
 Telco Customer Churn
 
 Contains customer demographics, service details, and churn labels.
 
+---
+
 📬 Contact
 Questions or feedback? Feel free to reach out!
+
+---
 
 Happy analyzing! 🚀📈
