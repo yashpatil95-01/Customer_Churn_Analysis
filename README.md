@@ -1,9 +1,11 @@
 # 📞 Customer Churn Analysis
 
-A simple yet effective **logistic regression** model to predict customer churn for a telecom company, based on the [Telco Customer Churn dataset]```(https://www.kaggle.com/datasets/blastchar/telco-customer-churn)``` from Kaggle.
+A simple yet effective **logistic regression** model to predict customer churn for a telecom company, based on the [Telco Customer Churn dataset] from Kaggle.
+```
+(https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+```
 
 ---
-
 ## 📋 Project Overview
 
 Customer churn prediction helps businesses understand which customers are likely to leave their service. This allows proactive retention strategies and improves revenue.
