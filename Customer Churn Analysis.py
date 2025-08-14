@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
 # Load dataset
-df = pd.read_csv("E:/PythonProjects/PA-Projects/Customer_Churn_Analysis/data/WA_Fn-UseC_-Telco-Customer-Churn.csv")
+df = pd.read_csv("data/WA_Fn-UseC_-Telco-Customer-Churn.csv")
 
 # Preview data
 print("First 5 rows:\n", df.head())
@@ -35,5 +35,5 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 # Visualize churn vs. tenure
 sns.boxplot(data=df, x='Churn', y='tenure')  # Capital 'C'
 plt.title('Tenure vs Churn')
-plt.savefig('E:/PythonProjects/PA-Projects/Customer_Churn_Analysis/results/tenure_vs_churn.png')
+plt.savefig('results/tenure_vs_churn.png')
 plt.show()
