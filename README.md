@@ -25,13 +25,13 @@ This project:
 2. Download the dataset from Kaggle [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and place the CSV file in the `data/` folder.  
 3. Install required Python libraries if you haven’t already:
 ```bash
-pip install pandas matplotlib seaborn scikit-learn
+pip install -r requirements.txt
 ```
 
 Run the main script:
 
 ```bash
-python churn_analysis.py
+python "Customer Churn Analysis.py"
 ```
 
 ---
